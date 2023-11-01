@@ -1,7 +1,3 @@
-<div align="center">
-  <img src = "https://github.com/Arco-de-Treinamento/.github/blob/main/profile/assets/Character_Selection_2.png" width="200px">
-</div>
-
 <h1 align = "center">
   Desenvolvimento de uma tecnologia com propriedades piezoelétricas como forma de geração de energia limpa
 </h1>
